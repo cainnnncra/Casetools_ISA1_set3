@@ -9,7 +9,7 @@ public class movie {
 		
 		
 	}
-public String getTitle() {
-	return this.title;
+public String getDirector() {
+	return this.director;
 }
 }
